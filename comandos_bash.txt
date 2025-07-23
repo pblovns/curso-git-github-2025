@@ -1,1 +1,3 @@
 cd - move pastas
+cat - exibe conteúdo do arquivo
+rm - remove arquivo ou diretorio
