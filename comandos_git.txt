@@ -3,3 +3,4 @@ git status - mostra o status do trabalho
 git add . adiciona o arquivo
 git commit -m - faz o commit do arquivo
 git log - mostra o históricos de commit
+modif
