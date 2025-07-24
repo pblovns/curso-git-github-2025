@@ -1,3 +1,4 @@
+cria uma pasta no diretorio
 git init . - cria um repo guite na pasta atual
 git status - mostra o status do trabalho
 git add . adiciona o arquivo
