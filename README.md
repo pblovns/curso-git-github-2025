@@ -4,9 +4,8 @@
 
 
 
+
 um curso e bla bla bla e bla bla bla
 
 quero aprender.
-
-
 
