@@ -2,3 +2,7 @@ cd - move pastas
 cat - exibe conteúdo do arquivo
 rm - remove arquivo ou diretório
 rm -rf -> remove com force
+
+
+Segue o link
+Curso git 2025
